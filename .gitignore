@@ -1,0 +1,12 @@
+# 运行时产物，不入库
+__pycache__/
+*.pyc
+_smoke_tmp.md
+_write_probe.tmp
+monthly_out.md
+机械层.md
+逐月*.md
+环境报告.md
+
+# 使用者自己的实例档（实名盘卡 / 断语档）不要提交
+盘卡-*.md
